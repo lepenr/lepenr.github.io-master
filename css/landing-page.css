@@ -7,7 +7,7 @@
 }
 
 .container-a{
-    background: url('https://blackrockdigital.github.io/startbootstrap-landing-page/img/intro-bg.jpg');
+    background: url(../BackGround-1.jpg);
    background-repeat: no-repeat;
    background-size:     cover;         
 }
