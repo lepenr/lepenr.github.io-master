@@ -1,0 +1,13 @@
+.container-a {
+  padding: 50px;
+}
+
+.name {
+  margin:15% 0 15% 0;
+}
+
+.container-a{
+    background: url('https://blackrockdigital.github.io/startbootstrap-landing-page/img/intro-bg.jpg');
+   background-repeat: no-repeat;
+   background-size:     cover;         
+}
